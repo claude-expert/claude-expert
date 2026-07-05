@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Claude+Benedict+Busole;Senior+Full-Stack+%7C+Backend+%7C+Cloud+Engineer;React+%7C+Node.js+%7C+Python+%7C+AWS+%7C+AI+Systems;Building+Scalable+Production+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Claude+Benedict+Busole;Senior+Full-Stack+%7C+Backend+%7C+Cloud+Engineer;React+%7C+Node.js+%7C+Python+%7C+AWS+%7C+AI+Systems;Building+Scalable+Production+Systems" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
